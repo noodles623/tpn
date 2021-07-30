@@ -11,8 +11,8 @@
 
 #define BUFFERSIZE 10
 
-static const char* TELEGRAM_ID = "566243044";
-static const char* BOT_TOKEN   = "1893059573:AAEeVZdQcdQr1VWd_Yap7bHTVJw5Q8vWcQQ";
+static const char* TELEGRAM_ID = "<Your Telegram ID>";
+static const char* BOT_TOKEN   = "<Your Bot Token>";
 
 int url_length(const char *str) {
     int c = 0;    
